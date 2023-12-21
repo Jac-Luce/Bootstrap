@@ -1,0 +1,23 @@
+#myNav {
+    margin-bottom: 20px;
+}
+
+.myCard {
+    margin-right: 40px;
+    margin-bottom: 40px;
+    padding-top: 12px;
+    border: none;
+}
+.card-text {
+    margin-bottom: 10px;
+    font-weight: 450;
+}
+
+.card-body {
+    padding: 0;
+}
+
+.btn {
+    font-weight: 700;
+    color: #01c601;
+}
